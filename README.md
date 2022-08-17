@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm MD Farooque Ansari
+A passionate Back-End Developer who enjoys solving challenges that come up while coding...
+![image](https://user-images.githubusercontent.com/101395801/185128020-d0c467e7-2fc6-4726-bcde-5a9e720c3e06.png)
 
 <!--
 **mrFarooque/mrFarooque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
