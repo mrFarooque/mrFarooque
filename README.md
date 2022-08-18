@@ -11,10 +11,10 @@
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://farooque-portfolio.netlify.app/)**
 
 - 📫 How to reach me **farooqueansari85@gmail.com**
-
+- 📫 [My LinkedIn Profilie](https://www.linkedin.com/in/mdfarooque786/)
 - ⚡ Fun fact **I'm only funny when I am not coding**
 
 ## 🚀 Languages and Tools:
